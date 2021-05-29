@@ -10,6 +10,7 @@ steps for use in your local system:
 5. Run the app.py 
 
 steps for Deployment on Heroku:
+https://reviewscrapperflipkart8.herokuapp.com/
 
 1. download heroku cli first from this link https://devcenter.heroku.com/articles/heroku-cli
 2. check heroku is installed in our system do open 'Anaconda prompt' or 'Terminal' and just type 'heroku' in there for confirmation.
